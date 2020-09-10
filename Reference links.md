@@ -1,6 +1,4 @@
- # Readme
-
-A growing list of tools and helpfull resources for all skill levels.  Below is the master list, see other files for area specific links
+A growing list of tools and helpfull resources for all skill levels.  
 ***
 # Tools and helpfull links
 
@@ -32,7 +30,7 @@ A growing list of tools and helpfull resources for all skill levels.  Below is t
 -[crackstation](https://crackstation.net)  
 -[CyberChef](https://gchq.github.io/CyberChef/)  
 -[Hashkiller](https://hashkiller.io)  
--[cmd](https://www.cmd5.org/)  
+-[cmd5](https://www.cmd5.org/)  
 -[onlinhashcrack](https://www.onlinehashcrack.com/)    
 -[gpuhash](https://gpuhash.me/)  
 -[Crack](https://crack.sh/)  
